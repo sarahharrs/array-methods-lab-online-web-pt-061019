@@ -13,8 +13,9 @@ array_candy = ["starburst", "blowpops", "chocolate"]
 array_candy.reverse
 end
 
-def using_first(array)
-
+def using_first(array_chips)
+array_chips = ["sun chips", "doritos", "cheetos"]
+array_chips.
 end
 
 def using_last(array)
