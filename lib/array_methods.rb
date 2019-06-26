@@ -25,5 +25,5 @@ end
 
 def using_size(array_size)
 array_size = [ "big", "small", "medium"]
-
+array_size.size
 end
