@@ -3,12 +3,14 @@ def using_include(array_wedding,"ring")
 array_wedding.include?("ring")
 end
 
-def using_sort(array_wedding)
-array_wedding
+def using_sort(array_work)
+  array_work = ["laptop", "notepad", "outlook"]
+array_work.sort
 end
 
-def using_reverse(array)
-
+def using_reverse(array_candy)
+array_candy = ["starburst", "blowpops", "chocolate"]
+array_candy.
 end
 
 def using_first(array)
