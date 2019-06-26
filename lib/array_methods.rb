@@ -20,9 +20,10 @@ end
 
 def using_last(array_languages)
 array_languages = ["ruby", "java", "HTML", "CSS"]
-array_languages
+array_languages.last
 end
 
-def using_size(array)
+def using_size(array_size)
+array_size = [ "big", "small", "medium"]
 
 end
