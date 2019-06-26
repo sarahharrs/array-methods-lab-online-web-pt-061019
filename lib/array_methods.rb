@@ -3,8 +3,8 @@ def using_include(array_wedding,"ring")
 array_wedding.include?("ring")
 end
 
-def using_sort(array)
-
+def using_sort(array_wedding)
+array_wedding
 end
 
 def using_reverse(array)
