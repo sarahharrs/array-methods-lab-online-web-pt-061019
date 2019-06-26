@@ -1,5 +1,6 @@
-def using_include(array, element)
-array.include?(element)
+def using_include(array_wedding,"ring")
+  array_wedding = ["flowers", "ring", "champagne"]
+array_wedding.include?("ring")
 end
 
 def using_sort(array)
