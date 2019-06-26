@@ -18,8 +18,9 @@ array_chips = ["sun chips", "doritos", "cheetos"]
 array_chips.first
 end
 
-def using_last(array)
-
+def using_last(array_languages)
+array_languages = ["ruby", "java", "HTML", "CSS"]
+array_languages
 end
 
 def using_size(array)
