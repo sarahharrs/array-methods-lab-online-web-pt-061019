@@ -15,7 +15,7 @@ end
 
 def using_first(array_chips)
 array_chips = ["sun chips", "doritos", "cheetos"]
-array_chips.
+array_chips.first
 end
 
 def using_last(array)
